@@ -1,13 +1,17 @@
 # SLOPE
-Part of codes of our work, (k/f-) SLOPE published in  AAAI'2023.
+
+## Part of codes of our work, (k/f-) SLOPE published in  AAAI'2023.
 
 # 1. Environment
 -------------
 
-** Python 3.9
-** Numpy
-** scipy
-** random
+**Python 3.9**
+
+**Numpy**
+
+**scipy**
+
+**random**
 
 
 # 2. Compiling
